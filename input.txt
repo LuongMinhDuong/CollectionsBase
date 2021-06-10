@@ -1,0 +1,14 @@
+#rectangle
+2
+3
+#circle
+3
+#triangle
+3
+4
+5
+#circle 
+9
+#rectangle 
+7
+6
